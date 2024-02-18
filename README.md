@@ -1,2 +1,2 @@
 # Learning
-Personal learning repository
+Personal learning and research repository
